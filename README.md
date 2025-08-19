@@ -2,7 +2,7 @@
 ### Bem vindo(a)! 😀
 
 #### Sobre mim
-Meu nome é Wesley Rabelo, no momento estou buscando me inserir no mercado de trabalho na área que amo e estudo. Faço faculdade de Sistemas de Informação no Centro Universitário Barriga Verde - Unibave, atualmente cursando a 6º fase.
+Meu nome é Wesley Rabelo, no momento estou buscando me inserir no mercado de trabalho na área que amo e estudo. Faço faculdade de Sistemas de Informação no Centro Universitário Barriga Verde - Unibave, atualmente cursando a 8º fase.
 Meu foco atual está no desenvolvimento de APPs e APIs, enfatizando Java e suas biblioetacas. 
 
 #### Tecnologias utilizadas
